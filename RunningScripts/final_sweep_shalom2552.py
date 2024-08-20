@@ -13,16 +13,13 @@ command = [
 sweep_config = {
     "name": "LSTM: SimFactor=0/4 for any features representation",
     "method": "grid",
-    "metric": {
-        "goal": "maximize",
-        "name": "AUC.test.max"
-    },
     "parameters": {
         "ENV_HPT_mode": {"values": [False]},
         "architecture": {"values": ["LSTM"]},
-        "seed": {"values": list(range(1, 6))},
-        "online_simulation_factor": {"values": [0, 4]},
-        "features": {"values": ["EFs", "GPT4", "BERT"]},
+        "seed": {"values": list(range(1, 4))},
+        "online_simulation_factor": {"values": [0, 1, 2, 4]},
+        "basic_nature": {"values": [17, 18]},
+        # "features": {"values": ["EFs", "GPT4", "BERT"]},
     },
     "command": command
 }

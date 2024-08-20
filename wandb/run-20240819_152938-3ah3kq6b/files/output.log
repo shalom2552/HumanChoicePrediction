@@ -1,0 +1,70 @@
+
+Start training the environment...
+################
+# Epoch 0
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 44.41: 100%|████████████████████████████████████████████████| 840/840 [01:14<00:00, 11.30it/s]
+
+
+
+Online Simulation:  10%|█████████▋                                                                                        | 926/9326 [00:09<01:21, 102.49it/s]
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 108, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 159, in train
+    for batch in tqdm(dataloader, desc=phase):
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 681, in __next__
+    data = self._next_data()
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 721, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py", line 49, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py", line 49, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 443, in __getitem__
+    bot_strategy = game["strategy_id"].to_numpy()
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/frame.py", line 3726, in __getitem__
+    and key in self.columns
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 5146, in __contains__
+    return key in self._engine
+KeyboardInterrupt

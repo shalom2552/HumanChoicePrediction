@@ -11,6 +11,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_squared_error
 import joblib
 
+
 # Paths
 hotel_data_path = '../data/game_reviews/'
 train_data_path = '../data/processed_train_data.csv'
@@ -37,8 +38,6 @@ for hotel_id in range(1, 1069):  # Now iterating over 1068 hotels
                     # Take the rest as the review features and clean them
                     review_features = ' '.join(values[:-1]).replace(',', '').replace('"', '').replace('\'', '').replace('\n', '').replace(';', '')
 
-                    if ',' in review_features:
-                        print(review_features)
                     # Append to the list of all reviews
                     all_reviews.append([review_features, score])
                 except:
@@ -50,6 +49,7 @@ reviews_df.to_csv(train_data_path, index=False)
 print(f"Processed training data saved to {train_data_path}")
 
 # Step 2: Train the model
+print("Training model...")
 data = pd.read_csv(train_data_path)
 X = data['review_features']
 y = data['hotel_score'].astype(float)
@@ -80,22 +80,20 @@ for hotel_id in range(1, 1069):
     if os.path.exists(hotel_file):
         with open(hotel_file, 'r') as file:
             reader = csv.reader(file)
-            reviews = []
             for row in reader:
                 try:
+                    review_id = row[0]  # Extracting the review ID
                     values = row[2:]
                     review_features = ' '.join(values[:-1]).replace(',', '').replace('"', '').replace('\'', '').replace('\n', '').replace(';', '')
-                    reviews.append(review_features)
+                    
+                    # Predict the score for the review
+                    predicted_score = model.predict([review_features])[0]
+                    
+                    # Save the prediction by review ID
+                    baseline_predictions[review_id] = predicted_score
                 except:
                     pass
-
-            if reviews:
-                review_features = ' '.join(reviews)
-                predicted_score = model.predict([review_features])[0]
-                baseline_predictions[hotel_id] = predicted_score
 
 with open(baseline_path, 'w') as file:
     json.dump(baseline_predictions, file)
 print(f"Baseline predictions saved to {baseline_path}")
-
-

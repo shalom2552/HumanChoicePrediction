@@ -129,7 +129,7 @@ def LLM_based(is_stochastic):
     
 
 def hotel_review_model():
-    baseline_path = '../data/new_baseline.txt'
+    baseline_path = './data/new_baseline.txt'
 
     with open(baseline_path, 'r') as file:
         predicted_rating = json.load(file)

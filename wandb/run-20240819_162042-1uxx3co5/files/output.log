@@ -1,0 +1,22 @@
+
+Start training the environment...
+################
+# Epoch 0
+################
+  0%|                                                                            | 0/840 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 108, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 218, in __init__
+    self.new_user()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 341, in new_user
+    user = self.SimulatedUser(user_improve=self.user_improve, basic_nature=self.basic_nature,
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 253, in __init__
+    6: ("hotel_review_model", basic_nature[5], user_strategies.hotel_review_model())
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/Simulation/dm_strategies.py", line 134, in hotel_review_model
+    with open(baseline_path, 'r') as file:
+FileNotFoundError: [Errno 2] No such file or directory: '../data/new_baseline.txt'
