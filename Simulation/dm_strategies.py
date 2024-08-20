@@ -126,7 +126,7 @@ def LLM_based(is_stochastic):
             review_llm_score = proba2go[information["review_id"]]
             return int(review_llm_score >= 0.5)
         return func
-    
+        
 
 def hotel_review_model():
     baseline_path = './data/new_baseline.txt'
@@ -140,3 +140,5 @@ def hotel_review_model():
         return int(review_llm_score >= 8)
     
     return func
+    
+
