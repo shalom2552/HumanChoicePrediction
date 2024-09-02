@@ -67,7 +67,7 @@ parser.add_argument('--personas_group_number', type=int, default=-1, help='Perso
 
 args = parser.parse_args()
 
-main_run = wandb.init(project='Strategy_Transfer_TACL')
+main_run = wandb.init(project='NLP2024_PROJECT_206320772_313510679')
 config = wandb.config
 
 config.update(args.__dict__)

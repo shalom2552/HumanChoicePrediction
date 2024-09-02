@@ -1,6 +1,6 @@
 import wandb
-YOUR_WANDB_USERNAME = "shalom2552"
-project = "Strategy_Transfer_TACL"
+YOUR_WANDB_USERNAME = "shalom_and_amit"
+project = "NLP2024_PROJECT_206320772_313510679"
 
 command = [
         "${ENVIRONMENT_VARIABLE}",

@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 103, in <module>
+    hotels = utils.Hotels(config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/__init__.py", line 18, in __init__
+    hotel_csv = pd.read_csv(f"{hotel_path}", header=None)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 583, in _read
+    return parser.read(nrows)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1721, in read
+    df = DataFrame(col_dict, columns=columns, index=index)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/frame.py", line 709, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/internals/construction.py", line 431, in dict_to_mgr
+    arrays = Series(data, index=columns, dtype=object)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/series.py", line 472, in __init__
+    data, index = self._init_dict(data, index, dtype)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/series.py", line 565, in _init_dict
+    s = Series(values, index=keys, dtype=dtype)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/core/series.py", line 511, in __init__
+    manager = get_option("mode.data_manager")
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/_config/config.py", line 261, in __call__
+    return self.__func__(*args, **kwds)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/_config/config.py", line 135, in _get_option
+    key = _get_single_key(pat, silent)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/_config/config.py", line 127, in _get_single_key
+    _warn_if_deprecated(key)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/pandas/_config/config.py", line 657, in _warn_if_deprecated
+    d = _get_deprecated_option(key)
+KeyboardInterrupt
