@@ -1422,3 +1422,1111 @@
 2024-09-02 12:51:54,417 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
 2024-09-02 12:51:54,661 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
 2024-09-02 12:51:54,753 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:51:55,770 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:51:56,662 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:51:56,755 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:51:57,761 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:51:58,356 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:51:58,662 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:51:58,758 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:51:59,765 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:00,663 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:00,765 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:01,766 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:02,663 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:02,761 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:03,425 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:03,762 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:04,664 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:04,762 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:05,766 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:06,664 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:06,766 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:07,770 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:08,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:08,769 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:09,408 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:52:09,409 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:52:09,665 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:09,772 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:10,773 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:11,665 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:11,777 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:12,779 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:13,454 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:13,666 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:13,780 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:14,794 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:15,666 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:15,781 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:16,786 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:17,666 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:17,786 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:18,480 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:18,795 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:19,667 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:19,804 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:20,801 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:21,320 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:52:21,671 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:21,805 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:22,796 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:23,503 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:23,671 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:23,799 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:24,415 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:52:24,415 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:52:24,804 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:25,672 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:25,800 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:26,800 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:27,672 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:27,803 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:28,526 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:28,804 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:29,673 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:29,805 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:30,817 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:31,673 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:31,818 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:32,830 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:33,549 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:33,674 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:33,829 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:34,823 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:35,674 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:35,832 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:36,825 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:37,675 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:37,827 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:38,639 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:38,832 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:39,425 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:52:39,425 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:52:39,675 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:39,830 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:40,833 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:41,675 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:41,832 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:42,849 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:43,676 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:43,710 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:43,839 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:44,836 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:45,676 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:45,836 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:46,837 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:47,677 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:47,842 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:48,773 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:48,844 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:49,677 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:49,853 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:50,846 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:51,320 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:52:51,678 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:51,849 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:52,849 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:53,679 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:53,842 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:53,851 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:54,415 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:52:54,416 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:52:54,861 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:55,679 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:55,862 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:56,855 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:57,679 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:57,856 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:58,847 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:52:58,868 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:52:59,680 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:52:59,867 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:00,871 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:01,680 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:01,868 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:02,927 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:03,681 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:03,923 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:03,938 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:04,932 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:05,681 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:05,932 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:06,927 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:07,682 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:07,929 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:08,940 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:09,001 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:09,438 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:53:09,438 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:53:09,682 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:09,936 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:10,950 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:11,683 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:11,941 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:12,945 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:13,683 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:13,943 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:14,020 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:14,946 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:15,683 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:15,943 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:16,943 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:17,684 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:17,944 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:18,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:19,041 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:19,684 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:19,944 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:20,945 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:21,321 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:53:21,685 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:21,945 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:22,945 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:23,685 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:23,945 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:24,128 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:24,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:53:24,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:53:24,945 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:25,686 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:25,946 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:26,946 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:27,687 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:27,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:28,946 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:29,154 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:29,688 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:29,946 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:30,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:31,688 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:31,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:32,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:33,689 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:33,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:34,189 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:34,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:35,689 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:35,947 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:36,949 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:37,690 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:37,948 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:38,948 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:39,265 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:39,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:53:39,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:53:39,690 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:39,950 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:40,948 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:41,691 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:41,952 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:42,949 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:43,691 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:43,949 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:44,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:44,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:45,692 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:45,950 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:46,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:47,692 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:47,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:48,951 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:49,361 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:49,693 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:49,951 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:50,952 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:51,321 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:53:51,693 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:51,952 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:52,952 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:53,694 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:53,952 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:54,380 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:54,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:53:54,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:53:54,954 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:55,695 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:55,952 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:56,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:57,695 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:57,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:58,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:53:59,396 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:53:59,696 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:53:59,953 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:00,954 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:01,696 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:01,954 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:02,955 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:03,697 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:03,955 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:04,468 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:04,955 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:05,697 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:05,955 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:06,956 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:07,698 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:07,957 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:08,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:09,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:54:09,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:54:09,651 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:09,698 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:09,956 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:10,956 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:11,699 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:11,957 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:12,957 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:13,700 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:13,957 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:14,673 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:14,957 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:15,700 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:15,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:16,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:17,701 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:17,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:18,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:19,701 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:19,770 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:19,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:20,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:21,322 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:54:21,702 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:21,961 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:22,958 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:23,702 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:23,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:24,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:54:24,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:54:24,875 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:24,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:25,703 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:25,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:26,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:27,703 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:27,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:28,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:29,704 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:29,959 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:29,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:30,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:31,704 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:31,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:32,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:33,705 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:33,990 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:34,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:35,013 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:35,706 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:35,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:36,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:37,706 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:37,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:38,960 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:39,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:54:39,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:54:39,707 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:39,961 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:40,108 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:40,961 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:41,707 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:41,962 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:42,964 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:43,318 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: partial_history
+2024-09-02 12:54:43,324 DEBUG   SenderThread:18210 [sender.py:send():391] send: history
+2024-09-02 12:54:43,325 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: summary_record
+2024-09-02 12:54:43,326 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 12:54:43,708 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 12:54:43,708 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:43,963 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:44,964 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:45,199 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:45,708 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:45,963 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:46,963 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:47,709 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:47,964 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:48,964 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:49,710 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:49,964 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:50,233 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:50,969 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:51,322 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:54:51,710 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:51,965 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:52,965 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:53,711 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:53,966 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:54,426 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:54:54,426 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:54:54,973 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:55,287 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:54:55,711 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:55,970 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:56,970 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:57,712 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:57,971 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:58,971 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:54:59,713 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:54:59,978 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:00,338 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:00,976 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:01,713 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:01,972 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:02,972 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:03,714 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:03,974 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:04,974 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:05,414 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:05,714 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:05,974 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:06,974 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:07,714 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:07,979 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:08,978 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:09,432 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:55:09,432 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:55:09,715 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:09,976 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:10,460 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:10,976 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:11,715 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:11,983 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:12,978 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:13,716 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:13,980 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:14,978 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:15,491 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:15,716 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:15,979 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:16,979 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:17,717 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:17,982 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:18,980 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:19,717 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:19,980 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:20,592 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:20,985 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:21,323 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:55:21,718 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:21,987 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:22,983 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:23,718 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:23,989 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:24,498 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:55:24,498 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:55:24,991 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:25,310 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: partial_history
+2024-09-02 12:55:25,319 DEBUG   SenderThread:18210 [sender.py:send():391] send: history
+2024-09-02 12:55:25,320 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: summary_record
+2024-09-02 12:55:25,321 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 12:55:25,651 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:25,719 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 12:55:25,719 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:25,991 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:27,092 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:27,720 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:28,095 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:29,092 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:29,720 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:30,086 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:30,746 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:31,096 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:31,721 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:32,090 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:33,093 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:33,721 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:34,127 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:34,923 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: log_artifact
+2024-09-02 12:55:34,924 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: log_artifact
+2024-09-02 12:55:34,967 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: partial_history
+2024-09-02 12:55:35,124 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:35,722 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:36,209 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:37,167 INFO    wandb-upload_1:18210 [upload_job.py:push():88] Uploaded file /home/marshall/.local/share/wandb/artifacts/staging/tmpap49ampa
+2024-09-02 12:55:37,185 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:38,186 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:38,190 INFO    SenderThread:18210 [sender.py:send_request_log_artifact():1537] logged artifact ega8ydhx_predictions_epoch_4 - {'id': 'QXJ0aWZhY3Q6MTE3NjQ4NTgyMQ==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxOTQxMTE5Mg==', 'latestArtifact': None}}
+2024-09-02 12:55:38,190 DEBUG   SenderThread:18210 [sender.py:send():391] send: history
+2024-09-02 12:55:38,191 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: summary_record
+2024-09-02 12:55:38,192 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:38,192 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 12:55:38,723 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 12:55:39,190 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:39,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:55:39,502 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:55:39,723 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:40,206 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:40,723 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:41,196 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:41,723 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:42,207 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:43,206 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:43,242 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:43,724 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:44,204 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:45,200 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:45,724 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:46,201 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:47,202 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:47,725 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:48,202 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:48,277 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:49,202 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:49,725 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:50,214 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:51,209 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:51,323 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:55:51,726 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:52,214 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:53,214 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:53,294 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:53,726 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:54,230 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:54,495 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:55:54,496 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:55:55,218 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:55,727 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:56,226 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:57,235 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:57,727 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:55:58,237 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:58,319 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:55:59,229 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:55:59,727 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:00,224 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:01,240 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:01,728 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:02,235 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:03,238 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:03,335 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:03,728 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:04,232 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:05,242 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:05,729 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:06,235 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:07,236 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:07,729 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:08,236 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:08,365 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:09,238 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:09,500 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:56:09,500 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:56:09,730 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:10,245 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:11,244 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:11,730 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:12,243 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:13,244 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:13,423 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:13,730 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:14,254 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:15,259 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:15,731 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:16,256 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:17,251 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:17,731 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:18,257 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:18,440 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:19,266 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:19,732 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:20,263 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:21,260 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:21,323 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:56:21,732 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:22,259 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:23,264 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:23,486 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:23,733 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:24,263 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:24,497 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:56:24,497 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:56:25,286 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:25,733 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:26,269 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:27,268 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:27,733 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:28,269 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:28,498 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:29,271 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:29,734 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:30,275 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:31,277 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:31,734 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:32,285 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:33,296 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:33,595 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:33,735 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:34,286 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:35,295 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:35,735 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:36,290 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:37,300 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:37,736 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:38,294 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:38,603 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:39,307 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:39,499 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:56:39,499 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:56:39,736 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:40,298 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:41,299 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:41,737 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:42,300 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:43,302 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:43,666 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:43,737 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:44,308 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:45,316 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:45,738 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:46,308 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:47,310 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:47,738 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:48,322 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:48,689 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:49,320 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:49,738 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:50,322 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:51,319 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:51,324 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:56:51,739 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:52,326 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:53,324 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:53,739 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:53,740 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:54,324 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:54,502 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:56:54,502 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:56:55,329 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:55,740 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:56,329 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:57,331 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:57,741 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:56:58,329 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:58,839 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:56:59,329 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:56:59,741 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:00,332 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:01,330 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:01,742 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:02,331 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:03,331 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:03,742 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:03,878 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:04,332 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:05,332 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:05,743 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:06,332 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:07,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:07,744 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:08,332 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:08,967 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:09,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:09,500 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:57:09,500 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:57:09,744 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:10,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:11,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:11,745 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:12,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:13,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:13,745 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:13,994 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:14,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:15,333 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:15,746 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:16,334 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:17,334 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:17,747 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:18,336 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:19,051 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:19,335 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:19,747 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:20,335 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:21,324 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:57:21,335 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:21,748 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:22,335 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:23,336 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:23,748 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:24,065 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:24,336 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:24,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:57:24,501 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:57:25,336 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:25,749 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:26,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:27,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:27,749 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:28,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:29,120 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:29,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:29,750 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:30,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:31,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:31,750 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:32,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:33,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:33,751 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:34,194 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:34,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:35,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:35,752 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:36,337 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:37,338 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:37,752 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:38,338 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:39,259 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:39,338 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:39,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:57:39,501 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:57:39,753 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:40,341 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:41,339 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:41,753 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:42,339 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:43,339 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:43,754 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:44,322 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:44,339 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:45,339 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:45,754 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:46,339 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:47,340 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:47,755 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:48,340 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:49,342 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:49,350 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:49,756 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:50,340 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:51,325 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:57:51,340 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:51,756 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:52,340 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:53,341 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:53,757 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:54,341 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:54,432 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:54,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:57:54,501 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:57:55,341 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:55,757 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:56,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:57,342 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:57,758 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:57:58,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:59,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:57:59,511 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:57:59,758 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:00,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:01,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:01,759 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:02,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:03,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:03,759 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:04,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:04,584 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:05,343 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:05,760 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:06,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:07,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:07,760 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:08,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:09,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:09,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:58:09,501 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:58:09,761 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:09,844 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:10,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:11,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:11,761 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:12,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:13,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:13,762 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:14,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:14,856 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:15,344 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:15,762 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:16,345 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:17,345 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:17,763 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:18,345 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:19,345 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:19,763 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:19,936 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:20,345 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:21,325 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:58:21,346 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:21,764 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:22,346 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:23,346 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:23,765 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:24,347 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:24,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:58:24,501 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:58:25,013 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:25,347 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:25,765 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:26,348 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:27,347 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:27,766 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:28,347 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:29,348 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:29,766 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:30,104 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:30,349 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:31,350 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:31,767 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:32,349 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:33,351 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:33,767 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:34,349 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:35,209 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:35,341 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: partial_history
+2024-09-02 12:58:35,349 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:35,368 DEBUG   SenderThread:18210 [sender.py:send():391] send: history
+2024-09-02 12:58:35,369 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: summary_record
+2024-09-02 12:58:35,370 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 12:58:35,768 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 12:58:35,768 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:36,349 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:37,351 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:37,768 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:38,351 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:39,351 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:39,501 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:58:39,501 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:58:39,769 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:40,228 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:40,361 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:41,353 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:41,770 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:42,353 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:43,357 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:43,770 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:44,356 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:45,280 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:45,361 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:45,771 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:46,362 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:47,359 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:47,771 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:48,366 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:49,359 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:49,772 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:50,290 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:50,364 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:51,326 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:58:51,361 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:51,772 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:52,365 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:53,363 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:53,773 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:54,365 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:54,505 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:58:54,505 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:58:55,365 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:55,376 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:58:55,773 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:56,367 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:57,370 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:57,774 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:58:58,372 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:59,371 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:58:59,774 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:00,368 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:00,398 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:01,372 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:01,775 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:02,371 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:03,374 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:03,775 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:04,374 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:05,374 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:05,413 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:05,776 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:06,374 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:07,374 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:07,776 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:08,376 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:09,377 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:09,506 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:59:09,507 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:59:09,777 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:10,383 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:10,496 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:11,378 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:11,778 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:12,378 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:13,378 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:13,778 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:14,378 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:15,379 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:15,532 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:15,779 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:16,379 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:17,319 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: partial_history
+2024-09-02 12:59:17,324 DEBUG   SenderThread:18210 [sender.py:send():391] send: history
+2024-09-02 12:59:17,326 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: summary_record
+2024-09-02 12:59:17,328 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 12:59:17,385 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:17,779 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 12:59:17,779 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:18,380 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:19,387 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:19,780 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:20,385 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:20,597 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:21,326 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:59:21,394 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:21,780 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:22,394 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:23,399 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:23,781 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:24,399 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:24,507 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:59:24,507 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:59:25,399 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:25,640 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:25,781 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:26,400 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:26,444 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: log_artifact
+2024-09-02 12:59:26,444 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: log_artifact
+2024-09-02 12:59:26,487 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: partial_history
+2024-09-02 12:59:27,400 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:27,782 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:28,403 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:29,383 INFO    wandb-upload_0:18210 [upload_job.py:push():88] Uploaded file /home/marshall/.local/share/wandb/artifacts/staging/tmpi2e8mb5q
+2024-09-02 12:59:29,415 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:30,412 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:30,433 INFO    SenderThread:18210 [sender.py:send_request_log_artifact():1537] logged artifact ega8ydhx_predictions_epoch_5 - {'id': 'QXJ0aWZhY3Q6MTE3NjQ5MDM1MQ==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxOTQxMTk0Mw==', 'latestArtifact': None}}
+2024-09-02 12:59:30,433 DEBUG   SenderThread:18210 [sender.py:send():391] send: history
+2024-09-02 12:59:30,434 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: summary_record
+2024-09-02 12:59:30,436 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 12:59:30,738 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:30,782 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 12:59:31,415 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:31,783 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:32,407 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:32,783 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:33,408 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:33,783 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:34,410 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:35,412 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:35,784 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:35,802 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:36,412 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:37,423 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:37,784 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:38,414 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:39,420 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:39,530 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:59:39,531 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:59:39,785 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:40,420 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:40,823 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:41,444 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:41,785 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:42,443 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:43,436 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:43,786 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:44,446 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:45,445 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:45,786 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:45,847 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:46,460 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:47,465 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:47,786 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:48,449 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:49,458 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:49,787 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:50,453 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:50,867 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:51,326 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 12:59:51,465 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:51,788 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:52,468 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:53,465 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:53,788 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:54,461 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:54,511 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 12:59:54,511 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 12:59:55,488 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:55,789 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:55,909 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 12:59:56,464 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:57,486 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:57,789 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 12:59:58,484 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:59,478 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 12:59:59,790 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:00,482 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:00,941 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:01,479 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:01,790 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:02,487 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:03,486 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:03,791 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:04,490 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:05,494 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:05,791 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:05,968 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:06,491 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:07,492 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:07,791 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:08,492 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:09,494 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:09,554 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 13:00:09,554 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 13:00:09,792 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:10,509 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:11,006 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:11,513 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:11,792 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:12,499 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:13,500 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:13,793 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:14,513 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:15,511 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:15,793 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:16,040 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:16,510 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:17,509 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:17,794 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:18,745 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:19,729 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:19,794 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:20,731 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:21,048 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:21,327 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 13:00:21,732 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:21,795 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:22,732 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:23,733 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:23,795 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:24,540 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 13:00:24,540 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: stop_status
+2024-09-02 13:00:24,741 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:25,737 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:25,795 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:26,150 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:26,738 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:27,740 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:27,796 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:28,744 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:29,764 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:29,796 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:30,752 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:31,178 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:31,753 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 13:00:31,797 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:32,493 DEBUG   SenderThread:18210 [sender.py:send():391] send: exit
+2024-09-02 13:00:32,493 INFO    SenderThread:18210 [sender.py:send_exit():598] handling exit code: 255
+2024-09-02 13:00:32,493 INFO    SenderThread:18210 [sender.py:send_exit():600] handling runtime: 1451
+2024-09-02 13:00:32,493 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 13:00:32,494 INFO    SenderThread:18210 [sender.py:send_exit():606] send defer
+2024-09-02 13:00:32,494 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,494 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 0
+2024-09-02 13:00:32,494 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,494 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 0
+2024-09-02 13:00:32,494 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 1
+2024-09-02 13:00:32,494 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,494 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 1
+2024-09-02 13:00:32,494 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,494 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 1
+2024-09-02 13:00:32,495 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 2
+2024-09-02 13:00:32,495 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,495 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 2
+2024-09-02 13:00:32,495 INFO    HandlerThread:18210 [system_monitor.py:finish():203] Stopping system monitor
+2024-09-02 13:00:32,495 INFO    HandlerThread:18210 [interfaces.py:finish():200] Joined cpu monitor
+2024-09-02 13:00:32,495 INFO    HandlerThread:18210 [interfaces.py:finish():200] Joined disk monitor
+2024-09-02 13:00:32,495 INFO    HandlerThread:18210 [interfaces.py:finish():200] Joined memory monitor
+2024-09-02 13:00:32,496 INFO    HandlerThread:18210 [interfaces.py:finish():200] Joined network monitor
+2024-09-02 13:00:32,496 DEBUG   SystemMonitor:18210 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-09-02 13:00:32,496 DEBUG   SystemMonitor:18210 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-09-02 13:00:32,496 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,496 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 2
+2024-09-02 13:00:32,496 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 3
+2024-09-02 13:00:32,497 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,497 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 3
+2024-09-02 13:00:32,498 DEBUG   SenderThread:18210 [sender.py:send():391] send: stats
+2024-09-02 13:00:32,499 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,499 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 3
+2024-09-02 13:00:32,499 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 4
+2024-09-02 13:00:32,499 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,499 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 4
+2024-09-02 13:00:32,499 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,499 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 4
+2024-09-02 13:00:32,499 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 5
+2024-09-02 13:00:32,499 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,499 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 5
+2024-09-02 13:00:32,501 DEBUG   SenderThread:18210 [sender.py:send():391] send: summary
+2024-09-02 13:00:32,502 INFO    SenderThread:18210 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-09-02 13:00:32,502 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,502 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 5
+2024-09-02 13:00:32,502 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 6
+2024-09-02 13:00:32,502 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,502 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 6
+2024-09-02 13:00:32,502 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,503 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 6
+2024-09-02 13:00:32,503 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 7
+2024-09-02 13:00:32,503 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:32,503 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:32,503 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 7
+2024-09-02 13:00:32,503 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:32,503 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 7
+2024-09-02 13:00:32,798 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 13:00:33,386 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 8
+2024-09-02 13:00:33,387 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:33,387 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 8
+2024-09-02 13:00:33,388 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:33,388 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 8
+2024-09-02 13:00:33,388 INFO    SenderThread:18210 [job_builder.py:build():443] Attempting to build job artifact
+2024-09-02 13:00:33,395 INFO    SenderThread:18210 [job_builder.py:_get_source_type():572] is repo sourced job
+2024-09-02 13:00:33,403 INFO    SenderThread:18210 [job_builder.py:build():548] adding wandb-job metadata file
+2024-09-02 13:00:33,411 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 9
+2024-09-02 13:00:33,412 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:33,412 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 9
+2024-09-02 13:00:33,412 DEBUG   SenderThread:18210 [sender.py:send():391] send: artifact
+2024-09-02 13:00:33,493 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 13:00:33,799 INFO    Thread-12 :18210 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:00:36,178 INFO    wandb-upload_1:18210 [upload_job.py:push():85] Skipped uploading /home/marshall/.local/share/wandb/artifacts/staging/tmpzyfebm_u
+2024-09-02 13:00:36,691 INFO    wandb-upload_0:18210 [upload_job.py:push():88] Uploaded file /tmp/tmpke9krhch/wandb-job.json
+2024-09-02 13:00:38,496 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: keepalive
+2024-09-02 13:00:38,941 INFO    SenderThread:18210 [sender.py:send_artifact():1549] sent artifact job-https___github.com_shalom2552_HumanChoicePrediction.git_StrategyTransfer.py - {'id': 'QXJ0aWZhY3Q6MTE3NjQ5MTcwNQ==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxNTI3MTQ5Mw==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6MTE3NjQ1NTgwNw==', 'versionIndex': 5}}}
+2024-09-02 13:00:38,942 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:38,942 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 9
+2024-09-02 13:00:38,942 INFO    SenderThread:18210 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-09-02 13:00:38,943 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 13:00:39,802 INFO    SenderThread:18210 [dir_watcher.py:finish():388] scan: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files
+2024-09-02 13:00:39,802 INFO    SenderThread:18210 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/config.yaml config.yaml
+2024-09-02 13:00:39,803 INFO    SenderThread:18210 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/conda-environment.yaml conda-environment.yaml
+2024-09-02 13:00:39,809 INFO    SenderThread:18210 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log output.log
+2024-09-02 13:00:39,809 INFO    SenderThread:18210 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/requirements.txt requirements.txt
+2024-09-02 13:00:39,810 INFO    SenderThread:18210 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-metadata.json wandb-metadata.json
+2024-09-02 13:00:39,810 INFO    SenderThread:18210 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json wandb-summary.json
+2024-09-02 13:00:39,811 INFO    SenderThread:18210 [sender.py:transition_state():626] send defer: 10
+2024-09-02 13:00:39,811 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: poll_exit
+2024-09-02 13:00:39,840 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 13:00:39,841 INFO    HandlerThread:18210 [handler.py:handle_request_defer():184] handle defer: 10
+2024-09-02 13:00:39,844 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: defer
+2024-09-02 13:00:39,845 INFO    SenderThread:18210 [sender.py:send_request_defer():622] handle sender defer: 10
+2024-09-02 13:00:39,845 INFO    SenderThread:18210 [file_pusher.py:finish():169] shutting down file pusher
+2024-09-02 13:00:40,477 INFO    wandb-upload_1:18210 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/config.yaml
+2024-09-02 13:00:40,498 DEBUG   HandlerThread:18210 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 13:00:40,499 DEBUG   SenderThread:18210 [sender.py:send_request():418] send_request: poll_exit
+2024-09-02 13:00:40,572 WARNING StreamThr :18210 [internal.py:is_dead():413] Internal process exiting, parent pid 18187 disappeared
+2024-09-02 13:00:40,573 ERROR   StreamThr :18210 [internal.py:wandb_internal():151] Internal process shutdown.
+2024-09-02 13:00:41,499 INFO    HandlerThread:18210 [handler.py:finish():880] shutting down handler
+2024-09-02 13:00:41,499 INFO    WriterThread:18210 [datastore.py:close():296] close: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/run-ega8ydhx.wandb
+2024-09-02 13:00:41,499 INFO    SenderThread:18210 [sender.py:finish():1631] shutting down sender
+2024-09-02 13:00:41,500 INFO    SenderThread:18210 [file_pusher.py:finish():169] shutting down file pusher
+2024-09-02 13:00:41,500 INFO    SenderThread:18210 [file_pusher.py:join():175] waiting for file pusher
+2024-09-02 13:09:24,491 INFO    wandb-upload_0:18210 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/output.log
+2024-09-02 13:09:24,509 INFO    wandb-upload_2:18210 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/conda-environment.yaml
+2024-09-02 13:09:24,515 INFO    wandb-upload_3:18210 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/requirements.txt
+2024-09-02 13:09:24,543 INFO    wandb-upload_4:18210 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20240902_123614-ega8ydhx/files/wandb-summary.json
+2024-09-02 13:09:24,743 INFO    Thread-11 :18210 [sender.py:transition_state():626] send defer: 11
+2024-09-02 13:09:25,107 INFO    SenderThread:18210 [file_stream.py:finish():601] file stream finish called
+2024-09-02 13:09:25,314 INFO    SenderThread:18210 [file_stream.py:finish():605] file stream finish is done

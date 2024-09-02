@@ -226,3 +226,291 @@ accuracy_per_mean_user_and_bot:  0.829239529591854
 ################
 # Epoch 4
 ################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 44.91: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████| 840/840 [01:21<00:00, 10.30it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 9447it [01:30, 104.88it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉| 2259/2260 [00:41<00:00, 53.80it/s]
+
+
+
+
+Test: 642it [00:08, 71.70it/s]
+Create online-simulation users for this epoch. mean games/user: 44.46:   3%|██▊                                                                                                   | 23/840 [00:02<01:10, 11.53it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7591746646945156
+accuracy_per_mean_user_and_bot:  0.8281691726914346
+################
+# Epoch 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 45.81: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████| 840/840 [01:20<00:00, 10.44it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 9627it [01:38, 97.63it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉| 2259/2260 [00:41<00:00, 53.82it/s]
+
+
+
+
+Test: 642it [00:08, 75.63it/s]
+Create online-simulation users for this epoch. mean games/user: 45.76:   4%|████▏                                                                                                 | 34/840 [00:03<01:14, 10.79it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7671324024203752
+accuracy_per_mean_user_and_bot:  0.8300975532311863
+################
+# Epoch 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 44.70:  80%|████████████████████████████████████████████████████████████████████████████████▋                    | 671/840 [01:04<00:16, 10.38it/s]
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 108, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 218, in __init__
+    self.new_user()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 365, in new_user
+    bot_message = self.bot_plays(bot_strategy, hotel, previous_rounds)  # expert plays
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 315, in bot_plays
+    bot_message = bot_strategy(hotel, previous_rounds)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/Simulation/strategies_code.py", line 11282, in strategy_877
+    return play_mean(reviews)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/Simulation/strategies_code.py", line 24, in play_mean
+    return reviews[np.argmin(tmp)]
+  File "<__array_function__ internals>", line 180, in argmin
+  File "/home/marshall/.local/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 1312, in argmin
+    return _wrapfunc(a, 'argmin', axis=axis, out=out, **kwds)
+KeyboardInterrupt

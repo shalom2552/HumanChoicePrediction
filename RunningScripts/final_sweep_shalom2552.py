@@ -11,7 +11,7 @@ command = [
     ]
 
 sweep_config = {
-    "name": "LSTM: SimFactor=0/4 for any features representation",
+    "name": "sweep_A",
     "method": "grid",
     "metric": {
         "goal": "maximize",
