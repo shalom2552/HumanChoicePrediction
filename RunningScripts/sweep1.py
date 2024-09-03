@@ -18,7 +18,7 @@ sweep_config = {
         "name": "AUC.test.max"
     },
     "parameters": {
-    	"total_epochs" : {[1]},
+    	"total_epochs" : {1},
         "ENV_HPT_mode": {"values": [False]},
         "architecture": {"values": ["LSTM"]},
     },
