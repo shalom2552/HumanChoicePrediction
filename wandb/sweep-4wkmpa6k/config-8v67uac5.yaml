@@ -1,0 +1,12 @@
+wandb_version: 1
+
+ENV_HPT_mode:
+  value: false
+architecture:
+  value: LSTM
+features:
+  value: GPT4
+online_simulation_factor:
+  value: 4
+seed:
+  value: 4
