@@ -1,0 +1,14 @@
+wandb_version: 1
+
+ENV_HPT_mode:
+  value: false
+architecture:
+  value: LSTM
+features:
+  value: EFs
+online_simulation_factor:
+  value: 4
+seed:
+  value: 1
+total_epochs:
+  value: 1

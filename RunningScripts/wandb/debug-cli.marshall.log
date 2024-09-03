@@ -62,3 +62,73 @@
 2024-09-02 12:48:50 INFO Running runs: ['jmugburl']
 2024-09-02 12:48:50 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
 2024-09-02 12:48:50 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-09-02 14:40:21 INFO Running runs: []
+2024-09-02 14:40:22 INFO Agent received command: run
+2024-09-02 14:40:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	features: EFs
+	online_simulation_factor: 0
+	seed: 1
+	total_epochs: 1
+2024-09-02 14:40:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=0 --seed=1 --total_epochs=1
+2024-09-02 14:40:27 INFO Running runs: ['2by4kxm6']
+2024-09-02 14:40:27 INFO Cleaning up finished run: 2by4kxm6
+2024-09-02 14:40:27 INFO Agent received command: run
+2024-09-02 14:40:27 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	features: EFs
+	online_simulation_factor: 0
+	seed: 2
+	total_epochs: 1
+2024-09-02 14:40:27 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=0 --seed=2 --total_epochs=1
+2024-09-02 14:40:32 INFO Running runs: ['o98xe6au']
+2024-09-02 14:40:32 INFO Cleaning up finished run: o98xe6au
+2024-09-02 14:40:33 INFO Agent received command: run
+2024-09-02 14:40:33 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	features: EFs
+	online_simulation_factor: 0
+	seed: 3
+	total_epochs: 1
+2024-09-02 14:40:33 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=0 --seed=3 --total_epochs=1
+2024-09-02 14:40:38 INFO Running runs: ['o1bgtz15']
+2024-09-02 14:40:38 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-09-02 14:40:38 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-09-02 14:41:27 INFO Running runs: []
+2024-09-02 14:41:27 INFO Agent received command: run
+2024-09-02 14:41:27 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	features: EFs
+	online_simulation_factor: 0
+	seed: 4
+	total_epochs: 1
+2024-09-02 14:41:27 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=0 --seed=4 --total_epochs=1
+2024-09-02 14:41:32 INFO Running runs: ['3sr0cus5']
+2024-09-02 14:41:32 INFO Cleaning up finished run: 3sr0cus5
+2024-09-02 14:41:34 INFO Agent received command: run
+2024-09-02 14:41:34 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	features: EFs
+	online_simulation_factor: 0
+	seed: 5
+	total_epochs: 1
+2024-09-02 14:41:34 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=0 --seed=5 --total_epochs=1
+2024-09-02 14:41:39 INFO Running runs: ['6r37bns7']
+2024-09-02 14:41:39 INFO Cleaning up finished run: 6r37bns7
+2024-09-02 14:41:39 INFO Agent received command: run
+2024-09-02 14:41:39 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	features: EFs
+	online_simulation_factor: 4
+	seed: 1
+	total_epochs: 1
+2024-09-02 14:41:39 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=4 --seed=1 --total_epochs=1
+2024-09-02 14:41:44 INFO Running runs: ['zcp50tez']
+2024-09-02 14:41:44 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-09-02 14:41:44 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
