@@ -11,18 +11,16 @@ command = [
     ]
 
 sweep_config = {
-    "name": "sweep_A",
+    "name": "fast_test",
     "method": "grid",
     "metric": {
         "goal": "maximize",
         "name": "AUC.test.max"
     },
     "parameters": {
+    	"total_epochs" : {[1]},
         "ENV_HPT_mode": {"values": [False]},
         "architecture": {"values": ["LSTM"]},
-        "seed": {"values": list(range(1, 6))},
-        "online_simulation_factor": {"values": [0, 4]},
-        "features": {"values": ["EFs", "GPT4", "BERT"]},
     },
     "command": command
 }
