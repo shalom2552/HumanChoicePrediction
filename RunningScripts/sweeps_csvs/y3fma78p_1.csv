@@ -1,0 +1,2 @@
+,name,config_ENV_HPT_mode,config_architecture,config_total_epochs
+0,northern-sweep-1,False,LSTM,1
