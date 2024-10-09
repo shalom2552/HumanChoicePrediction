@@ -1,0 +1,21 @@
+
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'basic_nature' was locked by 'sweep' (ignored update).
+Start training the environment...
+################
+# Epoch 0
+################
+  0%|                                                                                           | 0/840 [00:00<?, ?it/s]/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py:330: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  return (hotel.mean() >= 8) == action
+  0%|                                                                                           | 0/840 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 110, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 221, in __init__
+    self.new_user(self.threshold, self.threshold_adjustment)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 424, in new_user
+    bot_points += user_action
+TypeError: unsupported operand type(s) for +=: 'int' and 'tuple'

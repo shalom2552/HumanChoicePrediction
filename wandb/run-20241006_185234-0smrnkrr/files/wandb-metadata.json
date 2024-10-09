@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.15.0-122-generic-x86_64-with-glibc2.17",
+    "python": "3.8.19",
+    "heartbeatAt": "2024-10-06T15:52:34.989765",
+    "startedAt": "2024-10-06T15:52:34.331502",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--seed=2",
+        "--threshold=0.6",
+        "--threshold_adjustment=0.01"
+    ],
+    "state": "running",
+    "program": "StrategyTransfer.py",
+    "codePathLocal": "StrategyTransfer.py",
+    "codePath": "StrategyTransfer.py",
+    "git": {
+        "remote": "https://github.com/shalom2552/HumanChoicePrediction.git",
+        "commit": "ca85efa0c7f73b9ab8f29b9c7cc75a3f3b316c8d"
+    },
+    "email": "shalom2552@gmail.com",
+    "root": "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction",
+    "host": "vostro-5490",
+    "username": "marshall",
+    "executable": "/home/marshall/anaconda3/envs/final_project_env/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2784.507,
+        "min": 400.0,
+        "max": 4900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3400.054,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2834.523,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 3400.002,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2300.0,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2300.0,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2300.0,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2300.0,
+            "min": 400.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2300.0,
+            "min": 400.0,
+            "max": 4900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 467.8895797729492,
+            "used": 274.70832443237305
+        }
+    },
+    "memory": {
+        "total": 15.404792785644531
+    }
+}

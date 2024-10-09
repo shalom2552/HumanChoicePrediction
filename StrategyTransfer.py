@@ -25,7 +25,7 @@ parser.add_argument('--ENV_LEARNING_RATE', type=float, default=1e-3, help='Learn
 parser.add_argument('--loss_weight_type', type=str, default="None", help='Loss weight type')
 parser.add_argument('--save_artifacts', type=str2bool, default=True, help='Save artifacts flag')
 parser.add_argument('--strategies', default=None, help='Which strategies are include the training data')
-parser.add_argument('--total_epochs', type=int, default=25, help='Number of epochs during training')
+parser.add_argument('--total_epochs', type=int, default=15, help='Number of epochs during training')
 
 # Input Features
 parser.add_argument('--features', type=str, default="EFs", help='Input features')
@@ -39,10 +39,12 @@ parser.add_argument('--dropout', type=float, default=0, help='Dropout rate')
 
 # Human data
 parser.add_argument('--human_train_size', type=int, default=210, help='Training set size (in No. of users)')
+parser.add_argument('--threshold', type=float, default=0.6, help='Threshold for sentimental analysis')
+parser.add_argument('--threshold_adjustment', type=float, default=0.01, help='Threshold adjustment')
 
 # Online Simulation
 parser.add_argument('--online_sim_type', type=str, default="before_epoch", help='Online simulation type')
-parser.add_argument('--basic_nature', type=int, default=12, help='Basic nature of simulation')
+parser.add_argument('--basic_nature', type=int, default=13, help='Basic nature of simulation')
 parser.add_argument('--online_simulation_factor', type=float, default=4, help='Online simulation factor')
 parser.add_argument('--simulation_bot_per_user', type=int, default=6, help='Simulation bot per user')
 parser.add_argument('--simulation_signal_error', type=float, default=0.3, help='Simulation signal error')

@@ -1,0 +1,8 @@
+wandb_version: 1
+
+seed:
+  value: 3
+threshold:
+  value: 0.6
+threshold_adjustment:
+  value: 0.01

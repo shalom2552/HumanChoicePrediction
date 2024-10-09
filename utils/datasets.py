@@ -174,7 +174,8 @@ class OnlineSimulationDataSet(Dataset):
         zero_knowledge = config["zero_knowledge"]
         weight_type = self.config["loss_weight_type"]
         self.bots_per_user = config["bots_per_user"]
-
+        self.threshold = config["threshold"]
+        self.threshold_adjustment = config["threshold_adjustment"]
         self.n_users = int(n_users / self.bots_per_user * 6)
         max_active = int(max_active / self.bots_per_user * 6)
 
@@ -215,14 +216,16 @@ class OnlineSimulationDataSet(Dataset):
 
         pbar = trange(self.max_active)
         for i in pbar:
-            self.new_user()
+            self.new_user(self.threshold, self.threshold_adjustment)
             pbar.set_description(f"Create online-simulation users for this epoch. "
                                  f"mean games/user: {(self.total_games_created / self.next_user):.2f}")
 
         self.add_to_user_id = DATA_CLEAN_ACTION_PATH_X_NUMBER_OF_USERS + DATA_CLEAN_ACTION_PATH_Y_NUMBER_OF_USERS
 
     class SimulatedUser:
-        def __init__(self, user_improve, basic_nature, favorite_topic_method, **args):
+        def __init__(self, threshold, user_improve, basic_nature, favorite_topic_method, **args):
+            self.threshold = threshold
+            self.basic_nature = basic_nature
             history_window = np.random.negative_binomial(2, 1 / 2) + np.random.randint(0, 2)
             quality_threshold = np.random.normal(8, 0.5)
             good_topics = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 19, 28, 42]
@@ -250,7 +253,8 @@ class OnlineSimulationDataSet(Dataset):
                                                                                             quality_threshold)),
                             4: ("LLM stochastic (Language-based)",  basic_nature[3], user_strategies.LLM_based(is_stochastic=True)),
                             5: ("LLM deterministic", basic_nature[4], user_strategies.LLM_based(is_stochastic=False)),
-                            6: ("hotel_review_model", basic_nature[5], user_strategies.hotel_review_model())  # TODO added strategy
+                            6: ("sentimental analysis", basic_nature[5], user_strategies.confidence_based_decision(self.threshold, user_strategies.correct_action)),
+                            7: ("hotel_review_model", basic_nature[6], user_strategies.hotel_review_model())  # TODO added strategy
                             }
             self.nature = np.random.rand(len(self.ACTIONS)) * np.array([v[1] for v in self.ACTIONS.values()])
             self.nature = self.nature / sum(self.nature)
@@ -269,6 +273,8 @@ class OnlineSimulationDataSet(Dataset):
 
     def play_round(self, bot_message, user, previous_rounds, hotel, review_id):
         user_strategy = self.sample_from_probability_vector(user.user_proba)
+        user.ACTIONS[6] = ("sentimental analysis", user.basic_nature[5],
+                           lambda info: user_strategies.confidence_based_decision(user.user_strategies.correct_action)(info))
         user_strategy_function = user.ACTIONS[user_strategy][2]
         review_features = self.gcf[review_id]
         information = {"bot_message": bot_message,
@@ -334,11 +340,11 @@ class OnlineSimulationDataSet(Dataset):
                 return random.sample(options, self.bots_per_user)
 
 
-    def new_user(self):
+    def new_user(self, threshold, threshold_adjustment):
         user_id = self.next_user
         assert user_id < self.n_users
         args = {"favorite_review": self.get_review()}
-        user = self.SimulatedUser(user_improve=self.user_improve, basic_nature=self.basic_nature,
+        user = self.SimulatedUser(threshold, user_improve=self.user_improve, basic_nature=self.basic_nature,
                                   favorite_topic_method="review", **args)
         bots = self.sample_bots()
         game_id = 0
@@ -368,16 +374,27 @@ class OnlineSimulationDataSet(Dataset):
                     signal_error = np.random.normal(0, self.SIMULATION_SIGNAL_EPSILON)
                     user_action = self.play_round(bot_message + signal_error, user, previous_rounds,
                                                   hotel, review_id)  # DM plays
-                    round_result = self.check_choice(hotel, user_action)  # round results
+                    if not isinstance(user_action, tuple) or len(user_action) != 2:
+                        user_action = (user_action, '')
+
+                    round_result = self.check_choice(hotel, user_action[0])  # round results
                     correct_answers += round_result
 
+                    if round_result and user_action[1] == 'sentimental':
+                        user.threshold -= threshold_adjustment
+                        user.threshold = max(0, user.threshold)
+
+                    elif not round_result and user_action[1] == 'sentimental':
+                        user.threshold += threshold_adjustment
+                        user.threshold = min(1, user.threshold)
+                        
                     if user_action:
                         self.n_go += 1
                     else:
                         self.n_dont_go += 1
 
                     user.update_proba()  # update user vector
-                    previous_rounds += [(hotel, bot_message, user_action)]
+                    previous_rounds += [(hotel, bot_message, user_action[0])]
 
                     last_didGo_True = last_didGo == 1
                     last_didWin_True = last_didWin == 1
@@ -391,7 +408,7 @@ class OnlineSimulationDataSet(Dataset):
 
                     row = {"user_id": user_id, "strategy_id": bot, "gameId": game_id, "roundNum": round_number,
                            "hotelId": hotel_id, "reviewId": review_id, "hotelScore": float(f"{hotel.mean():.2f}"),
-                           "didGo": user_action, "didWin": round_result, "correctAnswers": correct_answers,
+                           "didGo": user_action[0], "didWin": round_result, "correctAnswers": correct_answers,
                            "last_reaction_time": last_reaction_time,
                            "reaction_time": reaction_time,
                            "last_didWin_True": last_didWin_True, "last_didGo_True": last_didGo_True,
@@ -405,10 +422,10 @@ class OnlineSimulationDataSet(Dataset):
                     #     last_reaction_time = self.get_reaction_time(row)
 
                     user_points += round_result
-                    bot_points += user_action
+                    bot_points += user_action[0]
 
                     last_last_didGo, last_last_didWin = last_didGo, last_didWin
-                    last_didGo, last_didWin = int(user_action), int(round_result)
+                    last_didGo, last_didWin = int(user_action[0]), int(round_result)
                     game.append(row)
                 self.add_game(user_id, game)
                 game_id += 1

@@ -1,0 +1,23 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'seed' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'threshold' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'threshold_adjustment' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'basic_nature' was locked by 'sweep' (ignored update).
+Start training the environment...
+################
+# Epoch 0
+################
+  0%|                                                                                           | 0/840 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 110, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 219, in __init__
+    self.new_user(self.threshold, self.threshold_adjustment)
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 347, in new_user
+    user = self.SimulatedUser(threshold, user_improve=self.user_improve, basic_nature=self.basic_nature,
+  File "/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/utils/datasets.py", line 257, in __init__
+    7: ("hotel_review_model", basic_nature[6], user_strategies.hotel_review_model())  # TODO added strategy
+IndexError: list index out of range

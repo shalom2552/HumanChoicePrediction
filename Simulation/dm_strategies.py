@@ -14,9 +14,9 @@ USER_DECISION = 2
 
 def correct_action(information):
     if information["hotel_value"] >= 8:
-        return 1
+        return (1, 'oracle')
     else:
-        return 0
+        return (0, 'oracle')
 
 
 def random_action(information):
@@ -32,9 +32,9 @@ def user_rational_action(information):
 
 def user_picky(information):
     if information["bot_message"] >= 9:
-        return 1
+        return (1, 'oracle')
     else:
-        return 0
+        return (0, 'oracle')
 
 
 def user_sloppy(information):
@@ -142,3 +142,45 @@ def hotel_review_model():
     return func
     
 
+def fetch_sentiment_confidence(file_location):
+    scores = {}
+    with open(file_location, 'r', encoding='utf-8') as f:
+        for entry in f:
+            data = entry.strip().split('\t')
+            review_identifier = int(data[0])
+            sentiment_value = data[3]
+            confidence_level = float(data[4])
+            scores[review_identifier] = {
+                "sentiment": sentiment_value,
+                "confidence": confidence_level
+            }
+    return scores
+
+def confidence_based_decision(threshold_value, backup_strategy):
+    def decision_maker(info):
+        review_key = info["review_id"]
+        sentiment_scores = fetch_sentiment_confidence('sentiment_confidence_results.txt')
+        
+        # If the review exists in the sentiment scores
+        if review_key in sentiment_scores:
+            score_data = sentiment_scores[review_key]
+            confidence_level = score_data["confidence"]
+            sentiment_type = score_data["sentiment"]
+            
+            # Check if confidence exceeds threshold
+            if confidence_level >= threshold_value:
+                # Return based on sentiment
+                if sentiment_type == "positive":
+                    return (1, 'sentiment_based')
+                else:
+                    return (0, 'sentiment_based')
+        
+        # Use backup strategy if confidence is too low
+        print("\n\n\nASASAS")
+        print(backup_strategy(info))
+        print("\n\n\nASASAS")
+        print(info)
+        print("ASASAS\n\n\n")
+        return backup_strategy(info)
+    
+    return decision_maker

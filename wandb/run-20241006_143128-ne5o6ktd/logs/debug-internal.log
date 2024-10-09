@@ -1,0 +1,190 @@
+2024-10-06 14:31:28,288 INFO    StreamThr :46410 [internal.py:wandb_internal():85] W&B internal server running at pid: 46410, started at: 2024-10-06 14:31:28.287949
+2024-10-06 14:31:28,289 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: status
+2024-10-06 14:31:28,297 INFO    WriterThread:46410 [datastore.py:open_for_write():87] open: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/run-ne5o6ktd.wandb
+2024-10-06 14:31:28,297 DEBUG   SenderThread:46410 [sender.py:send():391] send: header
+2024-10-06 14:31:28,307 DEBUG   SenderThread:46410 [sender.py:send():391] send: run
+2024-10-06 14:31:29,208 INFO    SenderThread:46410 [dir_watcher.py:__init__():211] watching files in: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files
+2024-10-06 14:31:29,208 INFO    SenderThread:46410 [sender.py:_start_run_threads():1200] run started: ne5o6ktd with start time 1728214288.288777
+2024-10-06 14:31:29,243 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: run_start
+2024-10-06 14:31:29,245 DEBUG   HandlerThread:46410 [system_info.py:__init__():26] System info init
+2024-10-06 14:31:29,245 DEBUG   HandlerThread:46410 [system_info.py:__init__():41] System info init done
+2024-10-06 14:31:29,245 INFO    HandlerThread:46410 [system_monitor.py:start():194] Starting system monitor
+2024-10-06 14:31:29,245 INFO    SystemMonitor:46410 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-06 14:31:29,246 INFO    HandlerThread:46410 [system_monitor.py:probe():214] Collecting system info
+2024-10-06 14:31:29,247 INFO    SystemMonitor:46410 [interfaces.py:start():188] Started cpu monitoring
+2024-10-06 14:31:29,248 INFO    SystemMonitor:46410 [interfaces.py:start():188] Started disk monitoring
+2024-10-06 14:31:29,248 INFO    SystemMonitor:46410 [interfaces.py:start():188] Started memory monitoring
+2024-10-06 14:31:29,249 INFO    SystemMonitor:46410 [interfaces.py:start():188] Started network monitoring
+2024-10-06 14:31:29,271 DEBUG   HandlerThread:46410 [system_info.py:probe():152] Probing system
+2024-10-06 14:31:29,274 DEBUG   HandlerThread:46410 [system_info.py:_probe_git():137] Probing git
+2024-10-06 14:31:29,282 DEBUG   HandlerThread:46410 [system_info.py:_probe_git():145] Probing git done
+2024-10-06 14:31:29,282 DEBUG   HandlerThread:46410 [system_info.py:probe():200] Probing system done
+2024-10-06 14:31:29,282 DEBUG   HandlerThread:46410 [system_monitor.py:probe():223] {'os': 'Linux-5.15.0-122-generic-x86_64-with-glibc2.17', 'python': '3.8.19', 'heartbeatAt': '2024-10-06T11:31:29.271314', 'startedAt': '2024-10-06T11:31:28.280443', 'docker': None, 'cuda': None, 'args': ('--basic_nature=18',), 'state': 'running', 'program': 'StrategyTransfer.py', 'codePathLocal': 'StrategyTransfer.py', 'codePath': 'StrategyTransfer.py', 'git': {'remote': 'https://github.com/shalom2552/HumanChoicePrediction.git', 'commit': 'ca85efa0c7f73b9ab8f29b9c7cc75a3f3b316c8d'}, 'email': 'shalom2552@gmail.com', 'root': '/home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction', 'host': 'vostro-5490', 'username': 'marshall', 'executable': '/home/marshall/anaconda3/envs/final_project_env/bin/python', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 2437.70925, 'min': 400.0, 'max': 4900.0}, 'cpu_freq_per_core': [{'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 2300.0, 'min': 400.0, 'max': 4900.0}, {'current': 3401.674, 'min': 400.0, 'max': 4900.0}], 'disk': {'/': {'total': 467.8895797729492, 'used': 274.7804145812988}}, 'memory': {'total': 15.404804229736328}}
+2024-10-06 14:31:29,282 INFO    HandlerThread:46410 [system_monitor.py:probe():224] Finished collecting system info
+2024-10-06 14:31:29,282 INFO    HandlerThread:46410 [system_monitor.py:probe():227] Publishing system info
+2024-10-06 14:31:29,282 DEBUG   HandlerThread:46410 [system_info.py:_save_conda():209] Saving list of conda packages installed into the current environment
+2024-10-06 14:31:30,210 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_created():271] file/dir created: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/conda-environment.yaml
+2024-10-06 14:31:30,550 DEBUG   HandlerThread:46410 [system_info.py:_save_conda():224] Saving conda packages done
+2024-10-06 14:31:30,568 INFO    HandlerThread:46410 [system_monitor.py:probe():229] Finished publishing system info
+2024-10-06 14:31:30,572 DEBUG   SenderThread:46410 [sender.py:send():391] send: files
+2024-10-06 14:31:30,572 INFO    SenderThread:46410 [sender.py:_save_file():1466] saving file wandb-metadata.json with policy now
+2024-10-06 14:31:30,690 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: python_packages
+2024-10-06 14:31:30,690 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: python_packages
+2024-10-06 14:31:30,691 DEBUG   SenderThread:46410 [sender.py:send():391] send: telemetry
+2024-10-06 14:31:30,691 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-06 14:31:30,692 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: stop_status
+2024-10-06 14:31:30,692 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: internal_messages
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: telemetry
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,028 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,029 DEBUG   SenderThread:46410 [sender.py:send():391] send: config
+2024-10-06 14:31:31,208 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/conda-environment.yaml
+2024-10-06 14:31:31,208 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_created():271] file/dir created: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log
+2024-10-06 14:31:31,209 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_created():271] file/dir created: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/wandb-metadata.json
+2024-10-06 14:31:31,209 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_created():271] file/dir created: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/requirements.txt
+2024-10-06 14:31:31,310 INFO    wandb-upload_0:46410 [upload_job.py:push():130] Uploaded file /tmp/tmpia7axm7awandb/ct2czzx4-wandb-metadata.json
+2024-10-06 14:31:33,209 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log
+2024-10-06 14:31:34,101 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: status_report
+2024-10-06 14:31:36,686 DEBUG   SenderThread:46410 [sender.py:send():391] send: exit
+2024-10-06 14:31:36,686 INFO    SenderThread:46410 [sender.py:send_exit():598] handling exit code: 1
+2024-10-06 14:31:36,686 INFO    SenderThread:46410 [sender.py:send_exit():600] handling runtime: 7
+2024-10-06 14:31:36,686 INFO    SenderThread:46410 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-10-06 14:31:36,687 INFO    SenderThread:46410 [sender.py:send_exit():606] send defer
+2024-10-06 14:31:36,687 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,687 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 0
+2024-10-06 14:31:36,687 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,687 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 0
+2024-10-06 14:31:36,687 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 1
+2024-10-06 14:31:36,687 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,687 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 1
+2024-10-06 14:31:36,687 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,688 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 1
+2024-10-06 14:31:36,688 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 2
+2024-10-06 14:31:36,688 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,688 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 2
+2024-10-06 14:31:36,688 INFO    HandlerThread:46410 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-06 14:31:36,688 DEBUG   SystemMonitor:46410 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-06 14:31:36,688 INFO    HandlerThread:46410 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-06 14:31:36,688 DEBUG   SystemMonitor:46410 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-06 14:31:36,688 INFO    HandlerThread:46410 [interfaces.py:finish():200] Joined disk monitor
+2024-10-06 14:31:36,688 DEBUG   SystemMonitor:46410 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-06 14:31:36,688 INFO    HandlerThread:46410 [interfaces.py:finish():200] Joined memory monitor
+2024-10-06 14:31:36,689 INFO    HandlerThread:46410 [interfaces.py:finish():200] Joined network monitor
+2024-10-06 14:31:36,689 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,689 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 2
+2024-10-06 14:31:36,689 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 3
+2024-10-06 14:31:36,689 DEBUG   SenderThread:46410 [sender.py:send():391] send: stats
+2024-10-06 14:31:36,689 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,690 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 3
+2024-10-06 14:31:36,690 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,690 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 3
+2024-10-06 14:31:36,690 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 4
+2024-10-06 14:31:36,690 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,690 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 4
+2024-10-06 14:31:36,690 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,690 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 4
+2024-10-06 14:31:36,690 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 5
+2024-10-06 14:31:36,690 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,690 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 5
+2024-10-06 14:31:36,691 DEBUG   SenderThread:46410 [sender.py:send():391] send: summary
+2024-10-06 14:31:36,691 INFO    SenderThread:46410 [sender.py:_save_file():1466] saving file wandb-summary.json with policy end
+2024-10-06 14:31:36,691 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,691 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 5
+2024-10-06 14:31:36,691 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 6
+2024-10-06 14:31:36,691 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,691 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 6
+2024-10-06 14:31:36,691 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,691 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 6
+2024-10-06 14:31:36,695 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: status_report
+2024-10-06 14:31:36,990 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 7
+2024-10-06 14:31:36,990 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:36,990 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 7
+2024-10-06 14:31:36,991 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:36,991 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 7
+2024-10-06 14:31:37,210 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/config.yaml
+2024-10-06 14:31:37,210 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log
+2024-10-06 14:31:37,211 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_created():271] file/dir created: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/wandb-summary.json
+2024-10-06 14:31:37,682 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-06 14:31:39,211 INFO    Thread-12 :46410 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log
+2024-10-06 14:31:41,041 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 8
+2024-10-06 14:31:41,041 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: poll_exit
+2024-10-06 14:31:41,041 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:41,041 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 8
+2024-10-06 14:31:41,041 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:41,041 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 8
+2024-10-06 14:31:41,041 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 9
+2024-10-06 14:31:41,041 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:41,041 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 9
+2024-10-06 14:31:41,042 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:41,042 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 9
+2024-10-06 14:31:41,042 INFO    SenderThread:46410 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-10-06 14:31:41,212 INFO    SenderThread:46410 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log
+2024-10-06 14:31:41,213 INFO    SenderThread:46410 [dir_watcher.py:finish():388] scan: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files
+2024-10-06 14:31:41,214 INFO    SenderThread:46410 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/config.yaml config.yaml
+2024-10-06 14:31:41,215 INFO    SenderThread:46410 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/conda-environment.yaml conda-environment.yaml
+2024-10-06 14:31:41,216 INFO    SenderThread:46410 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log output.log
+2024-10-06 14:31:41,222 INFO    SenderThread:46410 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/requirements.txt requirements.txt
+2024-10-06 14:31:41,231 INFO    SenderThread:46410 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/wandb-metadata.json wandb-metadata.json
+2024-10-06 14:31:41,239 INFO    SenderThread:46410 [dir_watcher.py:finish():402] scan save: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/wandb-summary.json wandb-summary.json
+2024-10-06 14:31:41,239 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 10
+2024-10-06 14:31:41,240 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:41,240 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 10
+2024-10-06 14:31:41,244 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:41,244 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 10
+2024-10-06 14:31:41,244 INFO    SenderThread:46410 [file_pusher.py:finish():169] shutting down file pusher
+2024-10-06 14:31:41,683 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-06 14:31:41,684 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: poll_exit
+2024-10-06 14:31:41,769 INFO    wandb-upload_1:46410 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/conda-environment.yaml
+2024-10-06 14:31:41,958 INFO    wandb-upload_0:46410 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/config.yaml
+2024-10-06 14:31:42,099 INFO    wandb-upload_2:46410 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/output.log
+2024-10-06 14:31:42,256 INFO    wandb-upload_4:46410 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/wandb-summary.json
+2024-10-06 14:31:42,262 INFO    wandb-upload_3:46410 [upload_job.py:push():130] Uploaded file /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/files/requirements.txt
+2024-10-06 14:31:42,463 INFO    Thread-11 :46410 [sender.py:transition_state():626] send defer: 11
+2024-10-06 14:31:42,464 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:42,464 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 11
+2024-10-06 14:31:42,465 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:42,465 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 11
+2024-10-06 14:31:42,466 INFO    SenderThread:46410 [file_pusher.py:join():175] waiting for file pusher
+2024-10-06 14:31:42,466 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 12
+2024-10-06 14:31:42,467 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:42,467 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 12
+2024-10-06 14:31:42,468 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:42,468 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 12
+2024-10-06 14:31:42,468 INFO    SenderThread:46410 [file_stream.py:finish():601] file stream finish called
+2024-10-06 14:31:42,684 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-06 14:31:42,713 INFO    SenderThread:46410 [file_stream.py:finish():605] file stream finish is done
+2024-10-06 14:31:42,713 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 13
+2024-10-06 14:31:42,713 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: poll_exit
+2024-10-06 14:31:42,713 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:42,713 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 13
+2024-10-06 14:31:42,713 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:42,714 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 13
+2024-10-06 14:31:42,714 INFO    SenderThread:46410 [sender.py:transition_state():626] send defer: 14
+2024-10-06 14:31:42,714 DEBUG   SenderThread:46410 [sender.py:send():391] send: final
+2024-10-06 14:31:42,714 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: defer
+2024-10-06 14:31:42,714 DEBUG   SenderThread:46410 [sender.py:send():391] send: footer
+2024-10-06 14:31:42,714 INFO    HandlerThread:46410 [handler.py:handle_request_defer():184] handle defer: 14
+2024-10-06 14:31:42,714 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: defer
+2024-10-06 14:31:42,714 INFO    SenderThread:46410 [sender.py:send_request_defer():622] handle sender defer: 14
+2024-10-06 14:31:42,714 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-06 14:31:42,715 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: poll_exit
+2024-10-06 14:31:42,715 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: server_info
+2024-10-06 14:31:42,715 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: server_info
+2024-10-06 14:31:42,716 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-06 14:31:42,717 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: get_summary
+2024-10-06 14:31:42,717 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: sampled_history
+2024-10-06 14:31:42,717 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: internal_messages
+2024-10-06 14:31:42,919 DEBUG   SenderThread:46410 [sender.py:send_request():418] send_request: poll_exit
+2024-10-06 14:31:42,920 INFO    MainThread:46410 [wandb_run.py:_footer_history_summary_info():4088] rendering history
+2024-10-06 14:31:42,920 INFO    MainThread:46410 [wandb_run.py:_footer_history_summary_info():4120] rendering summary
+2024-10-06 14:31:42,921 INFO    MainThread:46410 [wandb_run.py:_footer_sync_info():4047] logging synced files
+2024-10-06 14:31:42,922 DEBUG   HandlerThread:46410 [handler.py:handle_request():158] handle_request: shutdown
+2024-10-06 14:31:42,922 INFO    HandlerThread:46410 [handler.py:finish():884] shutting down handler
+2024-10-06 14:31:43,717 INFO    WriterThread:46410 [datastore.py:close():296] close: /home/marshall/Documents/courses/semester 9/NLP/git_project/HumanChoicePrediction/wandb/run-20241006_143128-ne5o6ktd/run-ne5o6ktd.wandb
+2024-10-06 14:31:43,920 INFO    SenderThread:46410 [sender.py:finish():1631] shutting down sender
+2024-10-06 14:31:43,920 INFO    SenderThread:46410 [file_pusher.py:finish():169] shutting down file pusher
+2024-10-06 14:31:43,920 INFO    SenderThread:46410 [file_pusher.py:join():175] waiting for file pusher

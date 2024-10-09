@@ -1,0 +1,160 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.8.19
+    cli_version: 0.17.9
+    framework: huggingface
+    huggingface_version: 4.44.2
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1728295122
+    t:
+      1:
+      - 1
+      - 5
+      - 11
+      - 49
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 11
+      - 49
+      - 53
+      - 55
+      3:
+      - 19
+      - 23
+      - 37
+      4: 3.8.19
+      5: 0.17.9
+      6: 4.44.2
+      8:
+      - 5
+      13: linux-x86_64
+basic_nature:
+  desc: null
+  value: 17
+seed:
+  desc: null
+  value: 1
+threshold:
+  desc: null
+  value: 0.6
+threshold_adjustment:
+  desc: null
+  value: 0.01
+ENV_HPT_mode:
+  desc: null
+  value: false
+task:
+  desc: null
+  value: off_policy
+ENV_LEARNING_RATE:
+  desc: null
+  value: 0.001
+loss_weight_type:
+  desc: null
+  value: None
+save_artifacts:
+  desc: null
+  value: true
+strategies:
+  desc: null
+  value: null
+total_epochs:
+  desc: null
+  value: 10
+features:
+  desc: null
+  value: EFs
+architecture:
+  desc: null
+  value: LSTM
+hidden_dim:
+  desc: null
+  value: 32
+layers:
+  desc: null
+  value: 2
+transformer_nheads:
+  desc: null
+  value: 4
+dropout:
+  desc: null
+  value: 0
+human_train_size:
+  desc: null
+  value: 210
+online_sim_type:
+  desc: null
+  value: before_epoch
+online_simulation_factor:
+  desc: null
+  value: 4
+simulation_bot_per_user:
+  desc: null
+  value: 6
+simulation_signal_error:
+  desc: null
+  value: 0.3
+simulation_user_improve:
+  desc: null
+  value: 0.01
+max_games:
+  desc: null
+  value: 4
+zero_knowledge:
+  desc: null
+  value: true
+bots_per_user:
+  desc: null
+  value: 6
+SIMULATION_EFs_PATH:
+  desc: null
+  value: data/EFs_by_GPT35.csv
+favorite_topic_method:
+  desc: null
+  value: review
+agent:
+  desc: null
+  value: modelbasedRL
+force_train:
+  desc: null
+  value: true
+output_dim:
+  desc: null
+  value: 2
+offline_simulation_size:
+  desc: null
+  value: 0
+OFFLINE_SIM_DATA_PATH:
+  desc: null
+  value: data/LLM_games_personas.csv
+personas_balanced:
+  desc: null
+  value: true
+personas_group_number:
+  desc: null
+  value: -1
+FEATURES_PATH:
+  desc: null
+  value: data/EFs_by_GPT35.csv
+REVIEW_DIM:
+  desc: null
+  value: 37
+use_user_vector:
+  desc: null
+  value: true
+online_simulation_size:
+  desc: null
+  value: 840
+input_dim:
+  desc: null
+  value: 60
+wandb_run_id:
+  desc: null
+  value: yzjktg27

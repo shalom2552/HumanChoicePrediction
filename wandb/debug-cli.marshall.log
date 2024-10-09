@@ -1,0 +1,471 @@
+2024-10-06 15:16:03 INFO Running runs: []
+2024-10-06 15:16:04 INFO Agent received command: run
+2024-10-06 15:16:04 INFO Agent starting run with config:
+	basic_nature: 18
+2024-10-06 15:16:04 INFO About to run command: python StrategyTransfer.py --basic_nature=18
+2024-10-06 15:16:09 INFO Running runs: ['hcyd1b1h']
+2024-10-06 18:50:04 INFO Running runs: []
+2024-10-06 18:50:04 INFO Agent received command: run
+2024-10-06 18:50:04 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:50:04 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:50:09 INFO Running runs: ['k683m5qp']
+2024-10-06 18:50:25 INFO Cleaning up finished run: k683m5qp
+2024-10-06 18:50:26 INFO Agent received command: run
+2024-10-06 18:50:26 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:50:26 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:50:31 INFO Running runs: ['ep29gaf2']
+2024-10-06 18:50:46 INFO Cleaning up finished run: ep29gaf2
+2024-10-06 18:50:47 INFO Agent received command: run
+2024-10-06 18:50:47 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:50:47 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:50:52 INFO Running runs: ['yh2p9rdt']
+2024-10-06 18:51:07 INFO Cleaning up finished run: yh2p9rdt
+2024-10-06 18:51:08 INFO Agent received command: exit
+2024-10-06 18:51:08 INFO Received exit command. Killing runs and quitting.
+2024-10-06 18:52:09 INFO Running runs: []
+2024-10-06 18:52:09 INFO Agent received command: run
+2024-10-06 18:52:09 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:52:09 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:52:14 INFO Running runs: ['a3qlt3xe']
+2024-10-06 18:52:30 INFO Cleaning up finished run: a3qlt3xe
+2024-10-06 18:52:31 INFO Agent received command: run
+2024-10-06 18:52:31 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:52:31 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:52:36 INFO Running runs: ['0smrnkrr']
+2024-10-06 18:52:56 INFO Cleaning up finished run: 0smrnkrr
+2024-10-06 18:52:57 INFO Agent received command: run
+2024-10-06 18:52:57 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:52:57 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:53:02 INFO Running runs: ['xpjrudaj']
+2024-10-06 18:53:18 INFO Cleaning up finished run: xpjrudaj
+2024-10-06 18:53:18 INFO Agent received command: exit
+2024-10-06 18:53:18 INFO Received exit command. Killing runs and quitting.
+2024-10-06 18:54:23 INFO Running runs: []
+2024-10-06 18:54:23 INFO Agent received command: run
+2024-10-06 18:54:23 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:54:23 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:54:28 INFO Running runs: ['kndsrdgi']
+2024-10-06 18:54:44 INFO Cleaning up finished run: kndsrdgi
+2024-10-06 18:54:44 INFO Agent received command: run
+2024-10-06 18:54:44 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:54:44 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:54:49 INFO Running runs: ['0urcwr3b']
+2024-10-06 18:55:05 INFO Cleaning up finished run: 0urcwr3b
+2024-10-06 18:55:05 INFO Agent received command: run
+2024-10-06 18:55:05 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:55:05 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:55:10 INFO Running runs: ['l4tu8xm3']
+2024-10-06 18:55:26 INFO Cleaning up finished run: l4tu8xm3
+2024-10-06 18:55:26 INFO Agent received command: exit
+2024-10-06 18:55:26 INFO Received exit command. Killing runs and quitting.
+2024-10-06 18:56:52 INFO Running runs: []
+2024-10-06 18:56:52 INFO Agent received command: run
+2024-10-06 18:56:52 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:56:52 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:56:57 INFO Running runs: ['25zu4ps0']
+2024-10-06 18:57:13 INFO Cleaning up finished run: 25zu4ps0
+2024-10-06 18:57:13 INFO Agent received command: run
+2024-10-06 18:57:13 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:57:13 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:57:18 INFO Running runs: ['3jpjibk7']
+2024-10-06 18:57:34 INFO Cleaning up finished run: 3jpjibk7
+2024-10-06 18:57:34 INFO Agent received command: run
+2024-10-06 18:57:34 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:57:34 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:57:39 INFO Running runs: ['273gqf03']
+2024-10-06 18:58:10 INFO Running runs: []
+2024-10-06 18:58:10 INFO Agent received command: run
+2024-10-06 18:58:10 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:58:10 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:58:15 INFO Running runs: ['tp4o63sq']
+2024-10-06 18:58:31 INFO Cleaning up finished run: tp4o63sq
+2024-10-06 18:58:31 INFO Agent received command: run
+2024-10-06 18:58:31 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:58:31 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:58:36 INFO Running runs: ['g5suqs93']
+2024-10-06 18:58:52 INFO Cleaning up finished run: g5suqs93
+2024-10-06 18:58:52 INFO Agent received command: run
+2024-10-06 18:58:52 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 18:58:52 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 18:58:57 INFO Running runs: ['63ivfjbq']
+2024-10-06 18:59:13 INFO Cleaning up finished run: 63ivfjbq
+2024-10-06 18:59:13 INFO Agent received command: exit
+2024-10-06 18:59:13 INFO Received exit command. Killing runs and quitting.
+2024-10-06 19:00:33 INFO Running runs: []
+2024-10-06 19:00:33 INFO Agent received command: run
+2024-10-06 19:00:33 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:00:33 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:00:38 INFO Running runs: ['gfp1opnm']
+2024-10-06 19:00:54 INFO Cleaning up finished run: gfp1opnm
+2024-10-06 19:00:54 INFO Agent received command: run
+2024-10-06 19:00:54 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:00:54 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:00:59 INFO Running runs: ['w7zb09qm']
+2024-10-06 19:01:15 INFO Cleaning up finished run: w7zb09qm
+2024-10-06 19:01:15 INFO Agent received command: run
+2024-10-06 19:01:15 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:01:15 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:01:20 INFO Running runs: ['9fy2bwq1']
+2024-10-06 19:01:36 INFO Cleaning up finished run: 9fy2bwq1
+2024-10-06 19:01:36 INFO Agent received command: exit
+2024-10-06 19:01:36 INFO Received exit command. Killing runs and quitting.
+2024-10-06 19:04:12 INFO Running runs: []
+2024-10-06 19:04:12 INFO Agent received command: run
+2024-10-06 19:04:12 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:04:12 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:04:17 INFO Running runs: ['5g8g5mfx']
+2024-10-06 19:04:33 INFO Cleaning up finished run: 5g8g5mfx
+2024-10-06 19:04:33 INFO Agent received command: run
+2024-10-06 19:04:33 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:04:33 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:04:38 INFO Running runs: ['6o469813']
+2024-10-06 19:04:54 INFO Cleaning up finished run: 6o469813
+2024-10-06 19:04:54 INFO Agent received command: run
+2024-10-06 19:04:54 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:04:54 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:04:59 INFO Running runs: ['g28dmodo']
+2024-10-06 19:05:15 INFO Cleaning up finished run: g28dmodo
+2024-10-06 19:05:16 INFO Agent received command: exit
+2024-10-06 19:05:16 INFO Received exit command. Killing runs and quitting.
+2024-10-06 19:13:12 INFO Running runs: []
+2024-10-06 19:13:13 INFO Agent received command: run
+2024-10-06 19:13:13 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 19:13:13 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 19:13:18 INFO Running runs: ['6dxyoojv']
+2024-10-06 20:46:32 INFO Running runs: []
+2024-10-06 20:46:32 INFO Agent received command: run
+2024-10-06 20:46:32 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:46:32 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:46:37 INFO Running runs: ['40qhzr79']
+2024-10-06 20:46:53 INFO Cleaning up finished run: 40qhzr79
+2024-10-06 20:46:53 INFO Agent received command: run
+2024-10-06 20:46:53 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:46:53 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:46:58 INFO Running runs: ['ie2zmian']
+2024-10-06 20:47:14 INFO Cleaning up finished run: ie2zmian
+2024-10-06 20:47:14 INFO Agent received command: run
+2024-10-06 20:47:14 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:47:14 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:47:19 INFO Running runs: ['12xhrt8c']
+2024-10-06 20:47:35 INFO Cleaning up finished run: 12xhrt8c
+2024-10-06 20:47:35 INFO Agent received command: exit
+2024-10-06 20:47:35 INFO Received exit command. Killing runs and quitting.
+2024-10-06 20:50:02 ERROR 400 response executing GraphQL.
+2024-10-06 20:50:02 ERROR {"errors":[{"message":"Sweep shalom_and_amit/NLP2024_PROJECT_206320772_313510679/otu165t7 is not running","path":["createAgent"]}],"data":{"createAgent":null}}
+2024-10-06 20:50:02 ERROR Traceback (most recent call last):
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 345, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "/home/marshall/.local/lib/python3.8/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/cli/cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/cli/cli.py", line 1836, in agent
+    wandb_agent.agent(sweep_id, entity=entity, project=project, count=count)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 572, in agent
+    return run_agent(
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 530, in run_agent
+    agent.run()
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 203, in run
+    agent = self._api.register_agent(socket.gethostname(), sweep_id=self._sweep_id)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/internal.py", line 154, in register_agent
+    return self.api.register_agent(*args, **kwargs)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/normalize.py", line 73, in wrapper
+    raise err
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 2959, in register_agent
+    response = self.gql(
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 317, in gql
+    ret = self._retry_gql(
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/retry.py", line 147, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "/home/marshall/anaconda3/envs/final_project_env/lib/python3.8/site-packages/wandb/util.py", line 881, in no_retry_4xx
+    raise UsageError(body["errors"][0]["message"])
+wandb.errors.UsageError: Sweep shalom_and_amit/NLP2024_PROJECT_206320772_313510679/otu165t7 is not running
+
+2024-10-06 20:50:17 INFO Running runs: []
+2024-10-06 20:50:17 INFO Agent received command: run
+2024-10-06 20:50:17 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:50:17 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:50:22 INFO Running runs: ['0hweuiah']
+2024-10-06 20:50:38 INFO Cleaning up finished run: 0hweuiah
+2024-10-06 20:50:38 INFO Agent received command: run
+2024-10-06 20:50:38 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:50:38 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:50:43 INFO Running runs: ['lqp90nhg']
+2024-10-06 20:50:59 INFO Cleaning up finished run: lqp90nhg
+2024-10-06 20:50:59 INFO Agent received command: run
+2024-10-06 20:50:59 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:50:59 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:51:04 INFO Running runs: ['zm1h3o8o']
+2024-10-06 20:51:20 INFO Cleaning up finished run: zm1h3o8o
+2024-10-06 20:51:20 INFO Agent received command: exit
+2024-10-06 20:51:20 INFO Received exit command. Killing runs and quitting.
+2024-10-06 20:52:34 INFO Running runs: []
+2024-10-06 20:52:34 INFO Agent received command: run
+2024-10-06 20:52:34 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 20:52:34 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 20:52:39 INFO Running runs: ['qo8y8bwi']
+2024-10-06 21:21:34 INFO Cleaning up finished run: qo8y8bwi
+2024-10-06 21:21:35 INFO Agent received command: run
+2024-10-06 21:21:35 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 21:21:35 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 21:21:40 INFO Running runs: ['6r1h3hod']
+2024-10-06 21:50:15 INFO Cleaning up finished run: 6r1h3hod
+2024-10-06 21:50:15 INFO Agent received command: run
+2024-10-06 21:50:15 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-06 21:50:15 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-06 21:50:20 INFO Running runs: ['qh4v9ojb']
+2024-10-06 22:18:49 INFO Cleaning up finished run: qh4v9ojb
+2024-10-06 22:18:49 INFO Agent received command: exit
+2024-10-06 22:18:49 INFO Received exit command. Killing runs and quitting.
+2024-10-07 12:37:50 INFO Running runs: []
+2024-10-07 12:37:51 INFO Agent received command: run
+2024-10-07 12:37:51 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:37:51 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:37:56 INFO Running runs: ['00j2ued9']
+2024-10-07 12:46:28 INFO Running runs: []
+2024-10-07 12:46:29 INFO Agent received command: run
+2024-10-07 12:46:29 INFO Agent starting run with config:
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:46:29 INFO About to run command: python StrategyTransfer.py --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:46:34 INFO Running runs: ['novy2s5s']
+2024-10-07 12:50:38 INFO Running runs: []
+2024-10-07 12:50:38 INFO Agent received command: run
+2024-10-07 12:50:38 INFO Agent starting run with config:
+	basic_nature: 18
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:50:38 INFO About to run command: python StrategyTransfer.py --basic_nature=18 --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:50:43 INFO Running runs: ['tvdhcavs']
+2024-10-07 12:51:04 INFO Cleaning up finished run: tvdhcavs
+2024-10-07 12:51:05 INFO Agent received command: run
+2024-10-07 12:51:05 INFO Agent starting run with config:
+	basic_nature: 18
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:51:05 INFO About to run command: python StrategyTransfer.py --basic_nature=18 --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:51:10 INFO Running runs: ['km1gaynw']
+2024-10-07 12:51:30 INFO Cleaning up finished run: km1gaynw
+2024-10-07 12:51:31 INFO Agent received command: run
+2024-10-07 12:51:31 INFO Agent starting run with config:
+	basic_nature: 18
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:51:31 INFO About to run command: python StrategyTransfer.py --basic_nature=18 --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:51:36 INFO Running runs: ['4aurpa1d']
+2024-10-07 12:51:57 INFO Cleaning up finished run: 4aurpa1d
+2024-10-07 12:51:57 INFO Agent received command: exit
+2024-10-07 12:51:57 INFO Received exit command. Killing runs and quitting.
+2024-10-07 12:58:37 INFO Running runs: []
+2024-10-07 12:58:38 INFO Agent received command: run
+2024-10-07 12:58:38 INFO Agent starting run with config:
+	basic_nature: 17
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:58:38 INFO About to run command: python StrategyTransfer.py --basic_nature=17 --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:58:43 INFO Running runs: ['yzjktg27']
+2024-10-07 12:59:04 INFO Cleaning up finished run: yzjktg27
+2024-10-07 12:59:04 INFO Agent received command: run
+2024-10-07 12:59:04 INFO Agent starting run with config:
+	basic_nature: 17
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:59:04 INFO About to run command: python StrategyTransfer.py --basic_nature=17 --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:59:09 INFO Running runs: ['isqug3jv']
+2024-10-07 12:59:30 INFO Cleaning up finished run: isqug3jv
+2024-10-07 12:59:30 INFO Agent received command: run
+2024-10-07 12:59:30 INFO Agent starting run with config:
+	basic_nature: 17
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 12:59:30 INFO About to run command: python StrategyTransfer.py --basic_nature=17 --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 12:59:35 INFO Running runs: ['cgc9hvbm']
+2024-10-07 12:59:56 INFO Cleaning up finished run: cgc9hvbm
+2024-10-07 12:59:57 INFO Agent received command: exit
+2024-10-07 12:59:57 INFO Received exit command. Killing runs and quitting.
+2024-10-07 13:06:54 INFO Running runs: []
+2024-10-07 13:06:54 INFO Agent received command: run
+2024-10-07 13:06:54 INFO Agent starting run with config:
+	basic_nature: 19
+	seed: 1
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 13:06:54 INFO About to run command: python StrategyTransfer.py --basic_nature=19 --seed=1 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 13:06:59 INFO Running runs: ['96xzngue']
+2024-10-07 13:25:48 INFO Cleaning up finished run: 00j2ued9
+2024-10-07 13:25:49 INFO Agent received command: run
+2024-10-07 13:25:49 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 13:25:49 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 13:25:54 INFO Running runs: ['p3j54s1h']
+2024-10-07 13:26:15 INFO Cleaning up finished run: p3j54s1h
+2024-10-07 13:26:15 INFO Agent received command: run
+2024-10-07 13:26:15 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 13:26:15 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 13:26:20 INFO Running runs: ['07s026gy']
+2024-10-07 13:26:35 INFO Cleaning up finished run: 07s026gy
+2024-10-07 13:26:36 INFO Agent received command: exit
+2024-10-07 13:26:36 INFO Received exit command. Killing runs and quitting.
+2024-10-07 13:42:48 INFO Cleaning up finished run: novy2s5s
+2024-10-07 13:42:48 INFO Agent received command: run
+2024-10-07 13:42:48 INFO Agent starting run with config:
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 13:42:48 INFO About to run command: python StrategyTransfer.py --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 13:42:53 INFO Running runs: ['8ji2y3pp']
+2024-10-07 13:43:09 INFO Cleaning up finished run: 8ji2y3pp
+2024-10-07 13:43:09 INFO Agent received command: run
+2024-10-07 13:43:09 INFO Agent starting run with config:
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 13:43:09 INFO About to run command: python StrategyTransfer.py --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 13:43:14 INFO Running runs: ['5loitucc']
+2024-10-07 13:43:30 INFO Cleaning up finished run: 5loitucc
+2024-10-07 13:43:30 INFO Agent received command: exit
+2024-10-07 13:43:30 INFO Received exit command. Killing runs and quitting.
+2024-10-07 13:56:51 INFO Cleaning up finished run: 96xzngue
+2024-10-07 13:56:52 INFO Agent received command: run
+2024-10-07 13:56:52 INFO Agent starting run with config:
+	basic_nature: 19
+	seed: 2
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 13:56:52 INFO About to run command: python StrategyTransfer.py --basic_nature=19 --seed=2 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 13:56:57 INFO Running runs: ['szfhjdcl']
+2024-10-07 14:47:23 INFO Cleaning up finished run: szfhjdcl
+2024-10-07 14:47:23 INFO Agent received command: run
+2024-10-07 14:47:23 INFO Agent starting run with config:
+	basic_nature: 19
+	seed: 3
+	threshold: 0.6
+	threshold_adjustment: 0.01
+2024-10-07 14:47:23 INFO About to run command: python StrategyTransfer.py --basic_nature=19 --seed=3 --threshold=0.6 --threshold_adjustment=0.01
+2024-10-07 14:47:28 INFO Running runs: ['d4lq93ml']
+2024-10-07 15:37:42 INFO Cleaning up finished run: d4lq93ml
+2024-10-07 15:37:42 INFO Agent received command: exit
+2024-10-07 15:37:42 INFO Received exit command. Killing runs and quitting.
