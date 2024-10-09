@@ -176,11 +176,6 @@ def confidence_based_decision(threshold_value, backup_strategy):
                     return (0, 'sentiment_based')
         
         # Use backup strategy if confidence is too low
-        print("\n\n\nASASAS")
-        print(backup_strategy(info))
-        print("\n\n\nASASAS")
-        print(info)
-        print("ASASAS\n\n\n")
         return backup_strategy(info)
     
     return decision_maker
